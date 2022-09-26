@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Sirius",
+    "magnitude (mV)": -1.46,
+    "distance (ly)": 8.6
+  },
+  {
+    "name": "Canopus",
+    "magnitude (mV)": -0.74,
+    "distance (ly)": 310.0
+  },
+  {
+    "name": "Rigil Kentaurus & Toliman",
+    "magnitude (mV)": -0.27,
+    "distance (ly)": 4.4
+  },
+  {
+    "name": "Arcturus",
+    "magnitude (mV)": -0.05,
+    "distance (ly)": 37.0
+  },
+  {
+    "name": "Vega",
+    "magnitude (mV)": 0.03,
+    "distance (ly)": 25.0
+  },
+  {
+    "name": "Capella",
+    "magnitude (mV)": 0.08,
+    "distance (ly)": 43.0
+  },
+  {
+    "name": "Rigel",
+    "magnitude (mV)": 0.13,
+    "distance (ly)": 860.0
+  },
+  {
+    "name": "Procyon",
+    "magnitude (mV)": 0.34,
+    "distance (ly)": 11.0
+  },
+  {
+    "name": "Achernar",
+    "magnitude (mV)": 0.46,
+    "distance (ly)": 139.0
+  },
+  {
+    "name": "Betelgeuse",
+    "magnitude (mV)": 0.5,
+    "distance (ly)": 700.0
+  },
+  {
+    "name": "Hadar",
+    "magnitude (mV)": 0.61,
+    "distance (ly)": 390.0
+  },
+  {
+    "name": "Altair",
+    "magnitude (mV)": 0.76,
+    "distance (ly)": 17.0
+  },
+  {
+    "name": "Acrux",
+    "magnitude (mV)": 0.76,
+    "distance (ly)": 320.0
+  },
+  {
+    "name": "Aldebaran",
+    "magnitude (mV)": 0.86,
+    "distance (ly)": 65.0
+  },
+  {
+    "name": "Antares",
+    "magnitude (mV)": 0.96,
+    "distance (ly)": 550.0
+  }
+]
